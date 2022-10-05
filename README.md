@@ -1,3 +1,4 @@
-The Unifi G4 Doorbell sounds to use outside of the Unifi ecosystem.
+The Unifi G4 Doorbell sounds to use outside of the Unifi ecosystem[^1].
 
-Source :bookmark:: unfortunately I can't remember and find again.
+Source :bookmark:: 
+[^1]: Unfortunately I can't remember and find again.
